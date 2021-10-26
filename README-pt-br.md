@@ -38,5 +38,5 @@ Rafael Augusto Mota
 
 ## Idioma do README
 
-[Português](./README-pt-br.md) | [Español](README-es.md) | [English](README-en.md) 
+[Português](./README-pt-br.md) | [Español](README-es.md) | [English](README.md) 
 
