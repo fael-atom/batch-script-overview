@@ -1,11 +1,19 @@
 <h1 align="center">Batch Script Overview</h1>
 
-<h3 align="center">A curious repository about batch commands, scripts and examples.</h3>
+
+
+
+<p align="center"><img alt="Repository Logo" src="images/logo-batch.png" width="25%" height="25%"></p>
+
+<h3 align="center">A curious repository about batch commands, scripts and examples</h3>
+
+
 
 <p align="center">
 <a href="#license">License</a> • 
 <a href="#author">Author</a> •
 <a href="#readme-language">README Language</a></p>
+
 
 ## Index
 <ul>
