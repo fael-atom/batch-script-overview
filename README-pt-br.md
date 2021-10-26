@@ -12,7 +12,7 @@
 
 ## Índice
 
-* [Introdução](#introducao)
+* [Introdução](#introdução)
 * [Alguns Comandos](#alguns-comandos)
 * [Trabalhando com Scripts](#trabalhando-com-scripts)
 * [Exemplos de Scripts](#exemplos-de-scripts)
