@@ -1,10 +1,12 @@
 <h1 align="center">Batch Script Overview</h1>
 
+<p align="center"><img alt="Logo do Repositório" src="images/logo-batch.png" width="25%" height="25%"></p>
+
 <h3 align="center">Um curioso repositório sobre comandos batch, scripts e exemplos</h3>
 
-<p align="center" >
+<p align="center">
 <a href="#autor">Autor</a> •
-<a href="#licenca">Licença</a>•
+<a href="#licenca">Licença</a> •
 <a href="#idioma-do-readme">Idioma do README</a></p>
 
 
@@ -16,6 +18,12 @@
 <li><a href="trabalhando-com-scripts">Trabalhando com Scripts</a></li>
 <li><a href="scripts-exemplos">Exemplos de Scripts</a></li>
 </ul>
+
+* [Introdução](#introducao)
+* [Alguns Comandos](#alguns-comandos)
+* [Trabalhando com Scripts](#trabalhando-com-scripts)
+* [Exemplos de Scripts](#exemplos-de-scripts)
+
 
 ## Introdução
 
