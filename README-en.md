@@ -12,15 +12,16 @@
 <li><a href="introduction">Introduction</a></li>
 <li><a href="commands">Some commands</a></li>
 <li><a href="scripts">Working with Scripts</a></li>
-<li><a href="scripts-examples">cripts Examples</a></li>
+<li><a href="scripts-examples">Scripts Examples</a></li>
 </ul>
+
 ## Introduction
 
 
-## Commands
+## Some Commands
 
 
-## Scripts
+## Working with Scripts
 
 
 ## Scripts Examples
