@@ -2,7 +2,7 @@
 
 <h3 align="center">A curious repository about batch commands, scripts and examples.</h3>
 
-<p align="center" 
+<p align="center">
 <a href="#license">License</a> • 
 <a href="#author">Author</a> •
 <a href="#readme-language">README Language</a></p>
