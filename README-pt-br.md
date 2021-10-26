@@ -12,13 +12,6 @@
 
 ## Índice
 
-<ul>
-<li><a href="introducao">Introdução</a></li>
-<li><a href="comandos">Alguns Comandos</a></li>
-<li><a href="trabalhando-com-scripts">Trabalhando com Scripts</a></li>
-<li><a href="scripts-exemplos">Exemplos de Scripts</a></li>
-</ul>
-
 * [Introdução](#introducao)
 * [Alguns Comandos](#alguns-comandos)
 * [Trabalhando com Scripts](#trabalhando-com-scripts)
