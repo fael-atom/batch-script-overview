@@ -1,19 +1,22 @@
 <h1 align="center">Batch Script Overview</h1>
 
+<p align="center"><img alt="Logo do Repositório" src="images/logo-batch.png" width="25%" height="25%"></p>
+
 <h3 align="center">Un curioso repositorio sobre comandos batch, scripts y ejemplos.</h3>
 
-<p align="center" >
+<p align="center">
 <a href="#autor">Autor</a> •
 <a href="#licencia">Licencia</a>•
 <a href="#idioma-del-readme">Idioma del README</a></p>
 
 ## Índice
-<ul>
-<li><a href="introduction">Introducción</a></li>
-<li><a href="commands">Algunos Comandos</a></li>
-<li><a href="scripts">Trabajando con Scripts</a></li>
-<li><a href="scripts-examples">Ejemplos de scripts</a></li>
-</ul>
+
+* [Introducción](#introducción)
+* [Algunos Comandos](#algunos-comandos)
+* [Trabajando con Scripts](#trabajando-con-scripts)
+* [Ejemplos de Scripts](#ejemplos-de-scripts)
+
+
 ## Introducción
 
 
