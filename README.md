@@ -16,12 +16,11 @@
 
 
 ## Index
-<ul>
-<li><a href="introduction">Introduction</a></li>
-<li><a href="commands">Some commands</a></li>
-<li><a href="scripts">Working with Scripts</a></li>
-<li><a href="scripts-examples">Scripts Examples</a></li>
-</ul>
+
+* [Introduction](#introduction)
+* [Some Commands](#some-commands)
+* [Working with Scripts](#working-with-scripts)
+* [Scripts Examples](#scripts-examples)
 
 ## Introduction
 
